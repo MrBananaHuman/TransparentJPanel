@@ -89,10 +89,3 @@ public class TransparentPanel extends JDialog {
         kk.drawImage(kk.frame, "res/niniz.gif", 500, 0, 200, 200);
     }
 }
-
-
-출처: https://banana-media-lab.tistory.com/entry/투명한-JPanel-만들기 [Banana Media Lab]
-
-출처: https://banana-media-lab.tistory.com/entry/투명한-JPanel-만들기 [Banana Media Lab]
-
-출처: https://banana-media-lab.tistory.com/entry/투명한-JPanel-만들기 [Banana Media Lab]
